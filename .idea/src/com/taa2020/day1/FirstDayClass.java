@@ -6,4 +6,5 @@ public class FirstDayClass {
     int Rango2 = 20;
     String msg = "novi-branch-1";
     String msg2 = "branch-br2";
+    String msg3 ="new branch num2";
 }
